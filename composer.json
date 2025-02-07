@@ -1,0 +1,18 @@
+{
+    "name": "johan/projet_owasp",
+    "description": "Mon projet PHP MVC",
+    "require": {
+        "altorouter/altorouter": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Johan\\ProjetOwasp\\": "projet_owasp/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Johan Gourmand",
+            "email": "johan.gourmand@gmail.com"
+        }
+    ]
+}
