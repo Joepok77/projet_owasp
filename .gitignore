@@ -1,0 +1,12 @@
+### `.gitignore`
+
+/vendor/
+/node_modules/
+.env
+.DS_Store
+.idea/
+.vscode/
+*.log
+storage/
+db_data/
+
